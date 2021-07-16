@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Open source projects
 
-You can use the [editor on GitHub](https://github.com/0xfederico/0xfederico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [Whatsapp2Signal-stickers](https://github.com/0xfederico/Whatsapp2Signal-stickers) _Automatically converts the stickers to match the required size_ <br>
+- [Spotifai](https://github.com/0xfederico/Spotifai) _Sync youtube playlist to local folder_ <br>
+- [pdf2html](https://github.com/0xfederico/pdf2html) _Very simple script to convert pdf to html via base64 encoded images_ <br>
+- [vendicompralibri_bot](https://github.com/0xfederico/vendicompralibri_bot) _Telegram bot for [vendicompralibri](https://github.com/0xfederico/vendicompralibri)_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Open source websites
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0xfederico/0xfederico/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [welcome-to-my-house](https://github.com/0xfederico/welcome-to-my-house) _ThreeJs house_ <br>
+- [test-responsive-website](https://github.com/0xfederico/test-responsive-website) _Check if your site is responsive in a cool way_ <br>
+- [terminal-website](https://github.com/0xfederico/terminal-website) _Trying to emulate the linux terminal on a website_ <br>
+- [heart-monitor](https://github.com/0xfederico/heart-monitor) _Canvas heart monitor effect_ <br>
+- [dynamic-skills-chart-bar](https://github.com/0xfederico/dynamic-skills-chart-bar) _Dynamic skills chart bar effect_ <br>
+- [canvas-explosion-background](https://github.com/0xfederico/canvas-explosion-background) _Canvas explosion background for your website_ <br>
